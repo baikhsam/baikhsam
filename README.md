@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# I am a grad student currently completing a MS in Computer Science at Northeastern University. Having previously studied UX Design, Cognitive Science and HCI at UC San Diego, I am now looking to apply my design experience and skills towards software development. 
+
+# My experience working on teams to create and iteratively refine products as a designer brings a unique perspective to the engineering side of product development. My passions lie in creating technologies that are human-centered and impactful. I enjoy being able to bring design prototypes to life through code. 
+
 <!--
 **baikhsam/baikhsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
