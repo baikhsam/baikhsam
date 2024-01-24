@@ -1,5 +1,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&pause=1000&random=false&width=435&lines=Hello%2C+nice+to+meet+you!%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B" alt="Typing SVG" /></a>
-
 🎓 I'm a graduate student pursuing a Master of Science in Computer Science at Northeastern University.
 
 🌟 With a foundation in UX Design, Cognitive Science, and HCI from UC San Diego, I bring a unique perspective to the world of software development.
