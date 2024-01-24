@@ -19,5 +19,5 @@
 - Bachelor of Science in Cognitive Science w/ a specialization in Design and Interaction @ UC San Diego
 
 ### 🌐 Connect with Me
-- LinkedIn: linkedin.com/in/baikhsam
-- Email: baik.h@northeastern.edu
+[![Linkedin Badge](https://img.shields.io/badge/-baikhsam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baikhsam/)](https://www.linkedin.com/in/baikhsam/)
+[![Gmail Badge](https://img.shields.io/badge/baik.h@northeastern.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baik.h@northeastern.edu)](mailto:baik.h@northeastern.edu)
