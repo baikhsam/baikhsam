@@ -1,23 +1,37 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&pause=1000&random=false&width=435&lines=Hello%2C+nice+to+meet+you!%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-🎓 I'm a graduate student pursuing a Master of Science in Computer Science at Northeastern University.
+### 👋 About Me  
+I’m an **AI/ML Software Engineer** transforming cutting-edge Artificial Intelligence research into **production-ready solutions** that solve real-world problems.  
 
-🌟 With a foundation in UX Design, Cognitive Science, and HCI from UC San Diego, I bring a unique perspective to the world of software development.
+With a foundation in **Cognitive Science** and **Human-Computer Interaction (HCI)**, I design AI systems that are both **technically robust** and **intuitively usable**. I bring **hands-on startup experience** with end-to-end ownership — from **LLM orchestration and MLOps pipelines** to **secure AWS cloud deployment**.  
 
-🛠️ I'm passionate about crafting technology solutions that are not just functional but also human-centered and impactful. I enjoy bringing design prototypes to life through code.
+Currently pursuing my **Master of Science in Computer Science** at **Northeastern University**, specializing in **production AI/ML applications** that bridge research breakthroughs with business impact.  
 
-👨‍💻 Currently, I'm exploring various aspects of software development, including:
-- Front-end Development
-- Back-end Development
-- User Experience Design
-- Human-Computer Interaction
+---
 
-🤝 I thrive in collaborative environments and have experience working in teams to create and iteratively refine products.
+### 🧠 Core Expertise  
+- 🔧 **Clinical NLP & Healthcare AI** — HIPAA-compliant pipelines for clinical documentation, sentiment analysis, and decision support  
+- 🔧 **Multi-Agent Systems** — architecting agent-based solutions using OpenAI’s SDK for adaptive coaching and autonomous workflows  
+- 🔧 **Retrieval-Augmented Generation (RAG)** — enterprise-grade pipelines with validation, structured prompting, and safety layers  
+- 🔧 **Cloud & MLOps** — AWS (Lambda, Bedrock, RDS, S3, ECS, IAM, HealthLake) for scalable, secure AI infrastructure  
+- 🔧 **Full-Stack AI Engineering** — Python, PostgreSQL, React, Node.js; seamless AI integration into production systems  
 
-### 📚 Education
-- Master of Science in Computer Science @ Northeastern University (Expected May 2025)
-- Bachelor of Science in Cognitive Science w/ a specialization in Design and Interaction @ UC San Diego
+---
 
-### 🌐 Connect with Me
-[![Linkedin Badge](https://img.shields.io/badge/-baikhsam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baikhsam/)](https://www.linkedin.com/in/baikhsam/)
+### 🌍 Impact Across Industries  
+🚀 Delivered AI/ML solutions across **healthcare**, **education**, and **mobility**, including:  
+- Semantic search systems serving thousands of queries  
+- Autonomous agent frameworks deployed in enterprise environments  
+- Cloud infrastructures designed to meet strict **security** and **compliance** requirements  
+
+---
+
+### 🎓 Education  
+- **M.S. in Computer Science** — Northeastern University *(Expected Dec 2025)*  
+- **B.S. in Cognitive Science (Design & Interaction)** — UC San Diego  
+
+---
+
+### 🌐 Connect with Me  
+[![Linkedin Badge](https://img.shields.io/badge/-baikhsam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baikhsam/)](https://www.linkedin.com/in/baikhsam/)  
 [![Gmail Badge](https://img.shields.io/badge/baik.h@northeastern.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baik.h@northeastern.edu)](mailto:baik.h@northeastern.edu)
